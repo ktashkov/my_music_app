@@ -1,2 +1,2 @@
-# my_music_app
+# My Music App
 SoftUni Web
